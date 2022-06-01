@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yachi
-- 👀 I’m interested in python programming includes discord-bots 
-- 🌱 I’m currently learning python datasience
+- 👀 I’m into python programming and discord-bots 
+- 🌱 I’m currently learning python
 - 📫 add me on discord Meaw#2819
 
 <!---
