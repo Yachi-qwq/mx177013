@@ -1,10 +1,10 @@
 - ⌫ Heyo I'm Yachi. 
-- ⌫ Main language is Python. 
-I'm currently learning about networking and creating socket servers
+- ⌫ Languages/scriptlanguages Python (main), js, html/css, c++
 - ⌫ Also into discord.py
 
 🍁 Shippo Discord bot project: 
 https://top.gg/bot/933735281767612496
+🍁 Discord: Yachi#1750
 
 
 <!---
