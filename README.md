@@ -1,10 +1,10 @@
 - ⌫ Heyo I'm Yachi. 
-- ⌫ Languages/scriptlanguages Python (main), js, html/css, c++
+- ⌫ Languages/scriptlanguages: Python (main), js, html/css, c++
 - ⌫ Also into discord.py
 
-🍁 Shippo Discord bot project: 
+- 🍁 Shippo Discord bot project: 
 https://top.gg/bot/933735281767612496
-🍁 Discord: Yachi#1750
+- 🍁 Discord: Yachi#1750
 
 
 <!---
