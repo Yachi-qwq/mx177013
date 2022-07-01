@@ -2,7 +2,7 @@
 - ⌫ Languages/scriptlanguages: Python (main), js, html/css, c++
 - ⌫ Also into discord.py
 
-- 🍁 Shippo Discord bot project: 
+- __🍁 Shippo Discord bot project:__ 
 *https://top.gg/bot/933735281767612496*
 - 🍁 Discord: Yachi#1750
 
