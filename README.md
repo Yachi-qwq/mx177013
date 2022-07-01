@@ -1,4 +1,4 @@
-- **⌫ Heyo I'm Yachi. **
+- **⌫ Heyo I'm Yachi.**
 - **⌫ Languages/scriptlanguages: Python (main), js, html/css, c++**
 - **⌫ Also into discord.py**
 
