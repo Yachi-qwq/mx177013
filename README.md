@@ -3,7 +3,7 @@
 - ⌫ Also into discord.py
 
 - 🍁 Shippo Discord bot project: 
-https://top.gg/bot/933735281767612496
+*https://top.gg/bot/933735281767612496*
 - 🍁 Discord: Yachi#1750
 
 
